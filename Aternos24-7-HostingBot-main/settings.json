@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "Clamidia.aternos.me:42050",
+    "port": 42050,
     "version": "",
     "try-creative": false
   },
